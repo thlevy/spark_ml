@@ -1,5 +1,5 @@
 # spark_ml (Distributed machine learning with Spark)
-ENSAE Project: analysis and prediction of video advertising display with Python/Spark (PySpark)
+ENSAE Project: Analysis and prediction of video advertising displays with Python/Spark (PySpark)
 
 Author: Thomas LEVY
 
